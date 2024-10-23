@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433800054132",
+    "project_id": "supermarket-shop-online",
+    "storage_bucket": "supermarket-shop-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433800054132:android:f95ebf08a6e2d866d51821",
+        "android_client_info": {
+          "package_name": "com.example.supermarketshoponline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqs27v5q4sZt5ocE0yuW8P4FkpH41nK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
