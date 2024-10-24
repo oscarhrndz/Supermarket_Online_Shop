@@ -14,11 +14,9 @@ Supermarket Online Shop is a mobile application built using Java in Android Stud
 
 ## Layouts
 
-<div align="center">
-    <img src="https://i.postimg.cc/cCp7TJ65/Screenshot-20241024-101346-Supermarket-Shop-Online.jpg" alt="Intro Screen" width="300" />
-    <img src="https://i.postimg.cc/4xz5Jbhn/Screenshot-20241024-101352-Supermarket-Shop-Online.jpg" alt="Main Screen" width="300" />
-    <img src="https://i.postimg.cc/Bv71sXNX/Screenshot-20241024-101358-Supermarket-Shop-Online.jpg" alt="Detail Screen" width="300" />
-</div>
+| Intro Screen | Main Screen | Detail Screen |
+|:------------:|:-----------:|:-------------:|
+| <img src="https://i.postimg.cc/cCp7TJ65/Screenshot-20241024-101346-Supermarket-Shop-Online.jpg" alt="Intro Screen" width="300"> | <img src="https://i.postimg.cc/4xz5Jbhn/Screenshot-20241024-101352-Supermarket-Shop-Online.jpg" alt="Main Screen" width="300"> | <img src="https://i.postimg.cc/Bv71sXNX/Screenshot-20241024-101358-Supermarket-Shop-Online.jpg" alt="Detail Screen" width="300"> |
 
 ## Technologies Used
 
