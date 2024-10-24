@@ -16,7 +16,7 @@ Supermarket Online Shop is a mobile application built using Java in Android Stud
 
 ### 1. Intro Screen
 <div align="center">
-    <img src="images/intro_screen.jpg" alt="Intro Screen" width="300" />
+    <img src="https://i.postimg.cc/cCp7TJ65/Screenshot-20241024-101346-Supermarket-Shop-Online.jpg" alt="Intro Screen" width="300" />
 </div>
 
 This is the introductory screen that welcomes the user to the application. It features:
@@ -26,7 +26,7 @@ This is the introductory screen that welcomes the user to the application. It fe
 
 ### 2. Main Screen
 <div align="center">
-    <img src="images/main_screen.jpg" alt="Main Screen" width="300" />
+    <img src="https://i.postimg.cc/4xz5Jbhn/Screenshot-20241024-101352-Supermarket-Shop-Online.jpg" alt="Main Screen" width="300" />
 </div>
 
 The main screen of the app consists of the following elements:
@@ -40,7 +40,7 @@ The main screen of the app consists of the following elements:
 
 ### 3. Detail Screen
 <div align="center">
-    <img src="images/detail_screen.jpg" alt="Detail Screen" width="300" />
+    <img src="https://i.postimg.cc/Bv71sXNX/Screenshot-20241024-101358-Supermarket-Shop-Online.jpg" alt="Detail Screen" width="300" />
 </div>
 
 This is the product detail screen where users can view more information about a selected product. Features include:
