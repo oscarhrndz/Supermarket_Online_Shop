@@ -37,7 +37,7 @@ The main screen of the app consists of the following elements:
 - **Bottom Navigation Bar**: Includes navigation icons for Explore, Cart, Wishlist, My Orders, and Profile.
 
 ### 3. Detail Screen
-
+<img src="https://i.postimg.cc/Bv71sXNX/Screenshot-20241024-101358-Supermarket-Shop-Online.jpg">
 ![Detail Screen](path_to_detail_screen_image)
 
 This is the product detail screen where users can view more information about a selected product. Features include:
