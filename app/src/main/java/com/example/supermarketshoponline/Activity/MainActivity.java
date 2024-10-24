@@ -63,6 +63,11 @@ public class MainActivity extends BaseActivity {
         });
     }
 
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+    }
+
     private void initCategoryList() {
         DatabaseReference myRef=database.getReference("Category");
         binding.progressBarCategory.setVisibility(View.VISIBLE);

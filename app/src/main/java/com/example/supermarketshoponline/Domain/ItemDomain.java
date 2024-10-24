@@ -1,6 +1,8 @@
 package com.example.supermarketshoponline.Domain;
 
-public class ItemDomain {
+import java.io.Serializable;
+
+public class ItemDomain implements Serializable {
     private String Title;
     private String ImagePath;
     private String Description;
